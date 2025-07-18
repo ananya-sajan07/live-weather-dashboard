@@ -1,8 +1,6 @@
-<img width="1432" height="805" alt="linked_in image" src="https://github.com/user-attachments/assets/0d91ea8e-c877-48ec-8973-3221550bcaf9" />
-
-
 # 🌦️ Power BI Weather Dashboard – Kerala Districts
 
+<img width="1432" height="805" alt="linked_in image" src="https://github.com/user-attachments/assets/0d91ea8e-c877-48ec-8973-3221550bcaf9" />
 This Power BI project visualizes detailed weather and air quality data for **five districts in Kerala**. While the dashboard currently displays data for **Kochi**, users can select from multiple locations to view weather updates dynamically.
 
 ---
