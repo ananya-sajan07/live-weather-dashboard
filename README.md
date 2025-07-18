@@ -1,4 +1,5 @@
-![Dashboard Preview](images/dashboard-preview.png)
+<img width="1432" height="805" alt="linked_in image" src="https://github.com/user-attachments/assets/0d91ea8e-c877-48ec-8973-3221550bcaf9" />
+
 
 # 🌦️ Power BI Weather Dashboard – Kerala Districts
 
