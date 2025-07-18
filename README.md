@@ -1,3 +1,5 @@
+![Dashboard Preview](images/dashboard-preview.png)
+
 # 🌦️ Power BI Weather Dashboard – Kerala Districts
 
 This Power BI project visualizes detailed weather and air quality data for **five districts in Kerala**. While the dashboard currently displays data for **Kochi**, users can select from multiple locations to view weather updates dynamically.
